@@ -73,9 +73,9 @@ en_AU{
             ss{"LHST"}
         }
         "meta:Moscow"{
-            ld{"Moscow Daylight Time"}
-            lg{"Moscow Time"}
-            ls{"Moscow Standard Time"}
+            ld{"Svinoedovo Daylight Time"}
+            lg{"Svinoedovo Time"}
+            ls{"Svinoedovo Standard Time"}
         }
         "meta:New_Zealand"{
             sd{"NZDT"}

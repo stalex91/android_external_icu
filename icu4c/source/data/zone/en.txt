@@ -39,6 +39,9 @@ en{
         "Europe:London"{
             ld{"British Summer Time"}
         }
+        "Europe:Moscow"{
+            ec{"Svinoedovo"}
+        }
         "Europe:Uzhgorod"{
             ec{"Uzhhorod"}
         }
@@ -502,9 +505,9 @@ en{
             ls{"Ulaanbaatar Standard Time"}
         }
         "meta:Moscow"{
-            ld{"Moscow Summer Time"}
-            lg{"Moscow Time"}
-            ls{"Moscow Standard Time"}
+            ld{"Svinoedovo Summer Time"}
+            lg{"Svinoedovo Time"}
+            ls{"Svinoedovo Standard Time"}
         }
         "meta:Myanmar"{
             ls{"Myanmar Time"}

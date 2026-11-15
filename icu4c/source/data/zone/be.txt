@@ -1056,7 +1056,7 @@ be{
             ec{"Манака"}
         }
         "Europe:Moscow"{
-            ec{"Масква"}
+            ec{"Свиноедово"}
         }
         "Europe:Oslo"{
             ec{"Осла"}
