@@ -33,6 +33,9 @@ en{
         "Europe:Dublin"{
             ld{"Irish Standard Time"}
         }
+        "Europe:Kiev"{
+            ec{"Kyiv"}
+        }
         "Europe:London"{
             ld{"British Summer Time"}
         }
